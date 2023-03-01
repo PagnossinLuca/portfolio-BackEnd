@@ -377,7 +377,7 @@ public class PortfolioController {
         //Elimina la imagen anterior si existe
         Path archivoAntiguo = Paths.get(dir);
         
-        if (!Files.exists(archivoAntiguo)) {
+        if (Files.exists(archivoAntiguo)) {
             
             Files.delete(archivoAntiguo);
         }

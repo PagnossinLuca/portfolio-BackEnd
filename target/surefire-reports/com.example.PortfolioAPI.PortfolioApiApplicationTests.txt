@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.PortfolioAPI.PortfolioApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.199 s - in com.example.PortfolioAPI.PortfolioApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.021 s - in com.example.PortfolioAPI.PortfolioApiApplicationTests
