@@ -31,7 +31,7 @@ public class PortfolioController {
     @Autowired
     private ProyectoService prjtService;
     
-    private String assetsDir = "gs://luca-pagnossin-front-end.appspot.com";
+    private String assetsDir = "https://luca-pagnossin-front-end.web.app/assets/";
     
     @PostMapping("/iniciar_sesion")
     public boolean iniciarSesion(@RequestBody Sesion sesion) {
